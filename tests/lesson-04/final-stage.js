@@ -14,7 +14,7 @@ function tongchiahet17 (){
         }
     }
   }
-  console.log('Tong cong co ${count} so chia het cho 17');
+  console.log(`Tong cong co ${count} so chia het cho 17`);
 }
   tongchiahet17();
 
